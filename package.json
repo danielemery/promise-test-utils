@@ -1,0 +1,23 @@
+{
+  "name": "@danielemeryau/promise-test-utils",
+  "version": "0.0.1",
+  "description": "Collection of dumb functions to help with testing some async cases",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielemery/promise-test-utils.git"
+  },
+  "author": "Daniel Emery <danielremery@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danielemery/promise-test-utils/issues"
+  },
+  "homepage": "https://github.com/danielemery/promise-test-utils#readme",
+  "devDependencies": {
+    "@danielemeryau/prettier-config": "0.0.6",
+    "typescript": "^3.7.5"
+  }
+}
