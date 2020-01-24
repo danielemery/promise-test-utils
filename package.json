@@ -1,6 +1,6 @@
 {
   "name": "@danielemeryau/promise-test-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Collection of dumb functions to help with testing some async cases",
   "main": "dist/index.js",
   "scripts": {},
