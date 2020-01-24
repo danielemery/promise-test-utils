@@ -3,7 +3,9 @@
   "version": "0.0.2",
   "description": "Collection of dumb functions to help with testing some async cases",
   "main": "dist/index.js",
-  "scripts": {},
+  "scripts": {
+    "build": "npx tsc"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/danielemery/promise-test-utils.git"
